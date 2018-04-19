@@ -1,2 +1,0 @@
-# kidogo
-Created with CodeSandbox

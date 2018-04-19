@@ -1,0 +1,19 @@
+{
+  "name": "sara",
+  "version": "1.0.0",
+  "description": "yet another javascript framework",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "babel-plugin-transform-react-jsx": "6.24.1",
+    "snabbdom": "0.7.1",
+    "snabbdom-pragma": "2.6.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
